@@ -1,6 +1,6 @@
 ## Hi my name Michael👋
 
-ツI am just a guy who like coding like a beer,I AM NOT A SKUFツ.
+ツJust a guy who loves coding and enjoys a good beer. I AM NOT A SKUFFツ.
 
 - 🚀🚀🚀my goals🚀🚀
 - Make my own text editor,serch engine,programming language
